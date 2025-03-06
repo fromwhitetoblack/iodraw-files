@@ -13,7 +13,7 @@
         <mxCell id="fXqOE3z5eWWBpv_F6Hrh-1" value="types" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXqOE3z5eWWBpv_F6Hrh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fXqOE3z5eWWBpv_F6Hrh-3" value="infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXqOE3z5eWWBpv_F6Hrh-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="i5jysTi6tH8Nu3DGyBW7-1">
