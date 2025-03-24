@@ -42,11 +42,14 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-14" value="测试集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UYKd4aKH64QZcPsSCL8y-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UYKd4aKH64QZcPsSCL8y-12">
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UYKd4aKH64QZcPsSCL8y-12" target="UYKd4aKH64QZcPsSCL8y-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="400" as="sourcePoint" />
             <mxPoint x="640" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="358" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
