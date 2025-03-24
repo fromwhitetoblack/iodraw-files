@@ -132,6 +132,9 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-47" value="元学习器训练集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
