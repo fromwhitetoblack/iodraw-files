@@ -39,6 +39,9 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-12" value="标准化处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="290" width="80" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
