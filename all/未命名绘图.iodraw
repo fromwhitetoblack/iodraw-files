@@ -81,6 +81,9 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-27" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;决策树、支持向量机（SVM）、K近邻算法（KNN）、逻辑回归、随机森林、梯度提升树（GBM）、神经网络和朴素贝叶斯&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="24" width="120" height="172" as="geometry" />
         </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
