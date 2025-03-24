@@ -102,8 +102,11 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-35" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;决策树&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="300" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYKd4aKH64QZcPsSCL8y-36" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;决策树&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="320" width="55" height="30" as="geometry" />
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-36" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;SVM&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-37" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;决策树&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
