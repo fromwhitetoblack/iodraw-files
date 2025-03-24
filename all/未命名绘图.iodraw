@@ -24,8 +24,14 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-6" value="处理异常值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UYKd4aKH64QZcPsSCL8y-8" target="UYKd4aKH64QZcPsSCL8y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UYKd4aKH64QZcPsSCL8y-8" value="特征编码" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="115" width="80" height="55" as="geometry" />
+          <mxGeometry x="400" y="117.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-10" value="特征编码" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="117.5" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
