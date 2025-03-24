@@ -126,14 +126,14 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYKd4aKH64QZcPsSCL8y-45" value="八个分类器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-45" value="八个基学习器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="460" y="495" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UYKd4aKH64QZcPsSCL8y-47" value="元学习器训练集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UYKd4aKH64QZcPsSCL8y-48" value="基学习器算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="278" width="100" height="30" as="geometry" />
+          <mxGeometry x="50" y="270" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
