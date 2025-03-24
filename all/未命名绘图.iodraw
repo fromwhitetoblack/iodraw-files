@@ -130,7 +130,7 @@
           <mxGeometry x="460" y="495" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UYKd4aKH64QZcPsSCL8y-47" value="测试集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="420" width="60" height="80" as="geometry" />
+          <mxGeometry x="300" y="650" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
