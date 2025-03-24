@@ -30,8 +30,14 @@
         <mxCell id="UYKd4aKH64QZcPsSCL8y-8" value="特征编码" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="117.5" width="80" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UYKd4aKH64QZcPsSCL8y-10" target="UYKd4aKH64QZcPsSCL8y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UYKd4aKH64QZcPsSCL8y-10" value="构造特征" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="117.5" width="80" height="55" as="geometry" />
+          <mxGeometry x="520" y="117.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UYKd4aKH64QZcPsSCL8y-12" value="构造特征" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="117.5" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
