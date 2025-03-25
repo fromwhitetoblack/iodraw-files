@@ -168,7 +168,10 @@
           <mxGeometry x="461" y="235.5" width="120" height="164" as="geometry" />
         </mxCell>
         <mxCell id="0u3o-5gmSyRpI1YdiIRR-12" value="元学习器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="488" y="151" width="66" height="26" as="geometry" />
+          <mxGeometry x="486" y="244" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0u3o-5gmSyRpI1YdiIRR-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
