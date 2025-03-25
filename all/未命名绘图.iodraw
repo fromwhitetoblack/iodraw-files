@@ -158,7 +158,7 @@
         <mxCell id="0u3o-5gmSyRpI1YdiIRR-7" value="XGBoost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="391" width="93" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="0u3o-5gmSyRpI1YdiIRR-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0u3o-5gmSyRpI1YdiIRR-8" value="LightBGM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="458" width="93" height="41" as="geometry" />
         </mxCell>
         <mxCell id="0u3o-5gmSyRpI1YdiIRR-10" value="基学习器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
