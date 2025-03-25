@@ -164,6 +164,9 @@
         <mxCell id="0u3o-5gmSyRpI1YdiIRR-10" value="基学习器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="218" y="133" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="0u3o-5gmSyRpI1YdiIRR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="188" width="120" height="164" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
