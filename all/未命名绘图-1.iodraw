@@ -486,7 +486,7 @@
           <mxGeometry x="121" y="221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-2" value="基学习器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="221" width="116" height="62" as="geometry" />
+          <mxGeometry x="314" y="220" width="95" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
