@@ -497,11 +497,8 @@
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="264" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9JyAWC7qdSp6PJOsCO_I-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JyAWC7qdSp6PJOsCO_I-13" target="9JyAWC7qdSp6PJOsCO_I-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-13" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="351.5" y="348" width="20" height="20" as="geometry" />
+          <mxGeometry x="351.5" y="275" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-15" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="467" width="20" height="20" as="geometry" />
