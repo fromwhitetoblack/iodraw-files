@@ -548,8 +548,8 @@
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-26" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="124" width="61" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9JyAWC7qdSp6PJOsCO_I-27" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="134" width="61" height="26" as="geometry" />
+        <mxCell id="9JyAWC7qdSp6PJOsCO_I-27" value="预测值2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="208" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-28" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="304" width="61" height="26" as="geometry" />
