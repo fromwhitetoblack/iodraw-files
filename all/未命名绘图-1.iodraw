@@ -491,8 +491,11 @@
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-9" value="基学习器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="128" width="95" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="9JyAWC7qdSp6PJOsCO_I-10" value="基学习器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9JyAWC7qdSp6PJOsCO_I-10" value="基学习器n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="309" width="95" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="9JyAWC7qdSp6PJOsCO_I-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="292" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
