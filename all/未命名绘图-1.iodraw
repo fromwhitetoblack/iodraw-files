@@ -444,8 +444,14 @@
         <mxCell id="80H2T4pjFVJ3f_a_EGcG-107" value="Class-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="598" y="362" width="59" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="80H2T4pjFVJ3f_a_EGcG-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80H2T4pjFVJ3f_a_EGcG-109" target="80H2T4pjFVJ3f_a_EGcG-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="80H2T4pjFVJ3f_a_EGcG-109" value="Voting&lt;div&gt;Result&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="423" width="71" height="30" as="geometry" />
+          <mxGeometry x="441" y="406" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80H2T4pjFVJ3f_a_EGcG-110" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="501" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
