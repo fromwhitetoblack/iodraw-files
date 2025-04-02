@@ -548,7 +548,7 @@
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-26" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="124" width="61" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9JyAWC7qdSp6PJOsCO_I-27" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9JyAWC7qdSp6PJOsCO_I-27" value="预测值2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="423" y="211" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="9JyAWC7qdSp6PJOsCO_I-28">
@@ -559,7 +559,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9JyAWC7qdSp6PJOsCO_I-28" value="预测值1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="423" y="315" width="61" height="26" as="geometry" />
+          <mxGeometry x="440" y="369" width="61" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
