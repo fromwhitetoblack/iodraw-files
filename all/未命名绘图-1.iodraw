@@ -444,7 +444,7 @@
         <mxCell id="80H2T4pjFVJ3f_a_EGcG-107" value="Class-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="598" y="376" width="59" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="80H2T4pjFVJ3f_a_EGcG-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="80H2T4pjFVJ3f_a_EGcG-109" value="Voting&lt;div&gt;Result&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
