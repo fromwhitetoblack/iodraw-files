@@ -571,6 +571,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OJXkt6bTUduipYhMpEXg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="148" width="505" height="307" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
