@@ -574,7 +574,7 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="115" width="671" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="最终集成融合模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="&lt;font color=&quot;#99ccff&quot;&gt;最终集成融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="89" y="122" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-3" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
