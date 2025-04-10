@@ -587,34 +587,34 @@
           <mxGeometry x="10" y="289.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="133.5" width="216" height="202" as="geometry" />
+          <mxGeometry x="332" y="115.5" width="216" height="202" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-6" value="&lt;font color=&quot;#3399ff&quot;&gt;Stacking融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="321" y="127.5" width="112" height="26" as="geometry" />
+          <mxGeometry x="325" y="109.5" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="399" width="217" height="54" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="167.5" width="204" height="62" as="geometry" />
+          <mxGeometry x="337" y="149.5" width="204" height="62" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366.5" y="267.5" width="139" height="49" as="geometry" />
+          <mxGeometry x="370.5" y="249.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-10" value="&lt;font color=&quot;#3399ff&quot;&gt;元学习器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="262.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="366" y="244.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-11" value="&lt;font color=&quot;#3399ff&quot;&gt;基学习器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332" y="162.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="336" y="144.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-12" value="KNN、RF、决策树、XGB、LGBM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="196.5" width="195" height="30" as="geometry" />
+          <mxGeometry x="341.5" y="178.5" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="314" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="403" y="286.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="407" y="268.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-15" value="&lt;font color=&quot;#3399ff&quot;&gt;阈值欠采样分类模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="321" y="391" width="119" height="30" as="geometry" />
