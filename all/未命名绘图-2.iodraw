@@ -601,6 +601,9 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-10" value="元学习器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="439" y="304" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
