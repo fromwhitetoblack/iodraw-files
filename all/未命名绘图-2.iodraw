@@ -625,10 +625,10 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-4" target="OJXkt6bTUduipYhMpEXg-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OJXkt6bTUduipYhMpEXg-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="357" as="sourcePoint" />
-            <mxPoint x="201" y="287" as="targetPoint" />
+            <mxPoint x="79.5" y="346.5" as="sourcePoint" />
+            <mxPoint x="190.5" y="276.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
