@@ -572,7 +572,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OJXkt6bTUduipYhMpEXg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="109.5" width="449" height="420" as="geometry" />
+          <mxGeometry x="141" y="109.5" width="449" height="345.5" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="&lt;font color=&quot;#3399ff&quot;&gt;最终集成融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="142" y="116.5" width="114" height="26" as="geometry" />
