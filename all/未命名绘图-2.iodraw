@@ -584,13 +584,13 @@
           <mxGeometry x="111" y="284" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="161" width="199" height="131" as="geometry" />
+          <mxGeometry x="421" y="161" width="216" height="202" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-6" value="Stacking融合模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="421" y="164" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-7" value="欠采样模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="393" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
