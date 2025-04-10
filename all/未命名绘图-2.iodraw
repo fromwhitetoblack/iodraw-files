@@ -592,6 +592,12 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-7" value="欠采样模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="195" width="176" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
