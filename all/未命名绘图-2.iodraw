@@ -575,12 +575,12 @@
           <mxGeometry x="141" y="109.5" width="449" height="345.5" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="&lt;font color=&quot;#3399ff&quot;&gt;最终集成融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="142" y="116.5" width="114" height="26" as="geometry" />
+          <mxGeometry x="135" y="108" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-3" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="321" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-4" target="OJXkt6bTUduipYhMpEXg-1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-4" target="OJXkt6bTUduipYhMpEXg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-4" value="测试集" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
