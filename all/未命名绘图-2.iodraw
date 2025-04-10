@@ -577,7 +577,10 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="&lt;font color=&quot;#3399ff&quot;&gt;最终集成融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="105" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-3" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-3" target="OJXkt6bTUduipYhMpEXg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="322.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-4" value="测试集" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -604,7 +607,7 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-12" value="KNN、RF、决策树、XGB、LGBM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="262" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="317" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="元学习器：逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -618,6 +621,9 @@
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-18" value="最终结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="702" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="462.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
