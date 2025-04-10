@@ -607,8 +607,8 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="317" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="258.25" y="172" width="60" height="30" as="geometry" />
+        <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="元学习器：逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="281" y="162.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-15" value="&lt;font color=&quot;#3399ff&quot;&gt;阈值欠采样分类模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="378.5" width="119" height="30" as="geometry" />
