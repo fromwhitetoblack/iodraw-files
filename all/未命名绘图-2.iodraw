@@ -580,6 +580,9 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-3" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-4" target="OJXkt6bTUduipYhMpEXg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-4" value="测试集" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="289.5" width="60" height="60" as="geometry" />
         </mxCell>
