@@ -611,7 +611,7 @@
           <mxGeometry x="341.5" y="178.5" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="314" width="60" height="30" as="geometry" />
+          <mxGeometry x="163" y="287" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="268.5" width="60" height="30" as="geometry" />
