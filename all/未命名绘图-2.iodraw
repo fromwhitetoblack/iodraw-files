@@ -605,7 +605,7 @@
           <mxGeometry x="447" y="195" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-12" value="KNN、RF、决策树、XGB、LGBM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439" y="216" width="60" height="30" as="geometry" />
+          <mxGeometry x="439" y="225" width="173" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
