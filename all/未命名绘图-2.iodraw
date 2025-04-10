@@ -622,9 +622,14 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-18" value="最终结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="702" y="337.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-26">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJXkt6bTUduipYhMpEXg-26" target="OJXkt6bTUduipYhMpEXg-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="488.42857360839844" y="359.8572006225586" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="418" />
+              <mxPoint x="390" y="361" />
+              <mxPoint x="491" y="361" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-26" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
