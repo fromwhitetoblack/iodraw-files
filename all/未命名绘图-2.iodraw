@@ -616,6 +616,9 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-15" value="&lt;font color=&quot;#3399ff&quot;&gt;阈值欠采样分类模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417" y="391" width="119" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OJXkt6bTUduipYhMpEXg-16" value="逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496" y="423" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
