@@ -598,11 +598,8 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221.75" y="153" width="139" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-10" value="&lt;font color=&quot;#3399ff&quot;&gt;元学习器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="217.25" y="148" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-11" value="基学习器：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185.5" y="228" width="60" height="30" as="geometry" />
+          <mxGeometry x="191" y="242" width="69.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-12" value="KNN、RF、决策树、XGB、LGBM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="262" width="195" height="30" as="geometry" />
