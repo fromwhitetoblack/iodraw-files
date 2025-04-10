@@ -574,8 +574,8 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="115" width="671" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="84" width="40" height="26" as="geometry" />
+        <mxCell id="OJXkt6bTUduipYhMpEXg-2" value="最终集成学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101" y="122" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
