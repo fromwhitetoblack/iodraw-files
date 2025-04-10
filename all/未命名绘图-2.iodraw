@@ -583,7 +583,7 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-4" value="测试集" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="317" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="121" width="232" height="202" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-6" value="&lt;font color=&quot;#3399ff&quot;&gt;Stacking融合模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -604,7 +604,7 @@
         <mxCell id="OJXkt6bTUduipYhMpEXg-12" value="KNN、RF、决策树、XGB、LGBM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="262" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OJXkt6bTUduipYhMpEXg-13" value="&lt;font color=&quot;#3399ff&quot;&gt;决策模型&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="317" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJXkt6bTUduipYhMpEXg-14" value="元学习器：逻辑回归" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
